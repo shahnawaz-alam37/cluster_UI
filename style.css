@@ -1,0 +1,22 @@
+body{
+    background-color: #F1F0E8;
+}
+a{
+    text-decoration: none;
+    /* color: black; */
+    padding: 2rem;
+    margin-top: 10px;
+    
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+h3{
+    margin:5px;
+}
+#maincontainer{
+    border: solid 1px ;
+    border-radius: 0.5rem;
+    /* margin-top: 2rem; */
+    margin: 2rem 8rem 0rem 8rem;
+}
